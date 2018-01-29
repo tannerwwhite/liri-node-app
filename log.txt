@@ -1,0 +1,10 @@
+spotify-this-song,"I Want it That Way"
+
+[{}]
+
+[{}]Jan 28 06:12:42:  executing command {undefined} on argument {}
+Jan 28 06:13:41:  executing command {movie-this} on argument {blow}
+Jan 28 06:14:16:  executing command {movie} on argument {this blow}
+Jan 28 06:18:00:  executing command {spotify-this-song} on argument {}
+Jan 28 06:18:43:  executing command {spotify-this-song} on argument {}
+Jan 28 06:19:00:  executing command {spotify-this-song} on argument {}

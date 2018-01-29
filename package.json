@@ -1,0 +1,27 @@
+{
+  "name": "liri-node-app",
+  "version": "0.0.0",
+  "description": "LIRI APP",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "moment": "^2.20.1",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tannerwwhite/liri-node-app.git"
+  },
+  "author": "Tanner W White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tannerwwhite/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/tannerwwhite/liri-node-app#readme"
+}
